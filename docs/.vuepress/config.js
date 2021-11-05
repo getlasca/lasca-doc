@@ -9,7 +9,20 @@ module.exports = {
       { text: 'Go to Lasca', link: 'http://lasca.app/', rel:false }
     ],
     sidebar: [
-      '/'
+      {
+        title: 'Get started',
+        collapsable: false,
+        children: [
+          '/'
+        ]
+      },
+      {
+        title: 'Development guide',
+        collapsable: false,
+        children: [
+          '/development/install'
+        ]
+      }
     ],
     searchPlaceholder: 'Search...',
     smoothScroll: true
