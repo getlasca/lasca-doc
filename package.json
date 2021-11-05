@@ -1,4 +1,13 @@
 {
+  "name": "lasca-doc",
+  "version": "0.0.1",
+  "author": "Lasca Inc.",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getlasca/lasca-doc.git"
+  },
   "devDependencies": {
     "vuepress": "^1.8.2"
   },
