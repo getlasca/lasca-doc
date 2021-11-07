@@ -6,7 +6,7 @@ Install [Lasca Figma plugin](https://www.figma.com/community/plugin/100425158377
 
 ## Install npm package
 
-Command line interface ``@lasca/cli`` and webpack loader ``lasca-loader`` should be installed.
+Command line interface `@lasca/cli` and webpack loader `lasca-loader` should be installed.
 
 ``` sh
 yarn add -D @lasca/cli lasca-loader
