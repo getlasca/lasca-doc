@@ -1,10 +1,11 @@
 module.exports = {
-  title: 'Lasca Documentation',
+  title: 'Lasca Docsumentation',
   description: 'No more front-end coding by integrating Figma with React/vue.js/webpack',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   themeConfig: {
+    logo: '/image/logo.png',
     nav: [
       { text: 'Go to Lasca', link: 'http://lasca.app/', rel:false }
     ],
