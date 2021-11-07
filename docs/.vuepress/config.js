@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Lasca Docsumentation',
+  title: 'Lasca Documentation',
   description: 'No more front-end coding by integrating Figma with React/vue.js/webpack',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }]
