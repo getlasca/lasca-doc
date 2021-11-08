@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "lasca-doc",
+    "target": "lasca-doc",
     "public": "./docs/.vuepress/dist",
     "ignore": [
       "firebase.json",
