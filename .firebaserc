@@ -1,5 +1,14 @@
 {
   "projects": {
-    "default": "lasca-doc"
+    "default": "lasca-1607f"
+  },
+  "targets": {
+    "lasca-1607f": {
+      "hosting": {
+        "lasca-doc": [
+          "lasca-doc"
+        ]
+      }
+    }
   }
 }
