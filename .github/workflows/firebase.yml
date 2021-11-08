@@ -9,8 +9,8 @@ jobs:
     steps:
       - name: checkout repository
         uses: actions/checkout@v2
-      - name: build
-        run: yarn build
+      - name: install packages and build
+        run: yarn install && yarn build
       - name: deploy to firebase
         uses: w9jds/firebase-action@master
         with:
