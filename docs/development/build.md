@@ -6,7 +6,7 @@ Build process with webpack loader is necessary to render template and CSS.
 
 API key is necessary to build. API key must be set up as environment variable `LASCA_API_TOKEN`.
 
-Get API key from [API key page](https://lasca.app/apikeys) (login required)
+Get API key from [API key page](https://lasca.app/api_keys) (login required)
 
 ``` sh
 export LASCA_API_TOKEN=<YOUR_API_TOKEN>

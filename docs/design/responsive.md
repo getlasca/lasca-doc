@@ -22,8 +22,8 @@ To express responsive web design, you can use Figma's constraint and resizing of
 ::: tip Tips
 Do you know how to use constraint and resizing of auto layout? You can learn how to use them in the following page.
 
-Constraint: [Apply Constraints to define how layers resize](https://help.figma.com/hc/en-us/articles/360039957734-Apply-Constraints-to-define-how-layers-resize)
-Resizing of auto layout: [Create dynamic designs with auto layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-auto-layout)
+- Constraint: [Apply Constraints to define how layers resize](https://help.figma.com/hc/en-us/articles/360039957734-Apply-Constraints-to-define-how-layers-resize)
+- Resizing of auto layout: [Create dynamic designs with auto layout](https://help.figma.com/hc/en-us/articles/360040451373-Create-dynamic-designs-with-auto-layout)
 :::
 
 ### 2. If necessary, create Figma frames for each breakpoints
