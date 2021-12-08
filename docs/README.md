@@ -54,8 +54,6 @@ For more information on how to use Lasca, please click here.
 - [Interaction with API](/development/interaction_with_api.md) - how to interact with API
 - [Combination with your own coding](/development/combination_with_coding.md) - how to combine with own coding
 
-**Is Lasca missing something you need?** To automate front-end coding, we’re launching more features. You can check our [Product Roadmap](https://vigorous-quicksand-2c8.notion.site/Product-Roadmap-e2affbbbb31f42bd94bd936620a1bc3e).
-
 ## Pricing
 
 Lasca is free while in beta. Please feel free to use as much as you want!
